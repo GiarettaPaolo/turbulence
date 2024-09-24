@@ -7,8 +7,8 @@ All the unpredictable and poorly understood behavior of turbulent flow is contai
 The experimental setup includes six anemometers positioned downstream of a turbulence-generating grid. We will plot the measurements collected from the anemometers to analyze the turbulence characteristics.
 
 <div align="center">
-  <img src="Part 1/Plots/windTunnel.png" alt="Setup with 6 Anemometers" height="200"/>
-  <img src="Part 1/Plots/plotAnemometers2.png" alt="Anemometer Measurements" height="200"/>
+  <img src="Part 1/Plots/windTunnel.png" alt="Setup with 6 Anemometers" height="180"/>
+  <img src="Part 1/Plots/plotAnemometers2.png" alt="Anemometer Measurements" height="180"/>
 </div>
 
 Using Fast Fourier Transform (FFT) and interpolation, we can plot the energy spectrum to observe the K41 Kolmogorov energy cascade from the integral scale to the Kolmogorov scale, along with the turbulence decay energy at large scales.
