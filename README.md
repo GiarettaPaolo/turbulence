@@ -28,7 +28,7 @@ The equation often serves as a simple benchmark for algorithms working on chaoti
   <img src="Part 2/programs/Plots/spacetimecontours.png" alt="KDV Equation" width="600"/>
 </div>
 
-This chaos can be quantified by Lyapunov exponents using an algorithm of successive normalization. Notice how the more unpredictable system presents higher Lyapunov exponents. Similarl the Kaplan-York dimension quantifies the richness of dynamics. 
+This chaos can be quantified by Lyapunov exponents using an algorithm of successive normalization. Notice how the more unpredictable system presents higher Lyapunov exponents. Similarly the Kaplan-York dimension quantifies the richness of dynamics. 
 
 <div align="center">
   <img src="Part 2/programs/Plots/exponents1.png" alt="Convergence of Lyapunov Exponents" width="600"/>
